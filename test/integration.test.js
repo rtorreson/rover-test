@@ -1,4 +1,4 @@
-import { strictEqual } from 'assert';
+import { strictEqual } from 'node:assert';
 import { RoverNavigator } from '../src/strategy/navigate.strategy.js';
 
 describe('Integration Test for navigateRovers function', () => {
