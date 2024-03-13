@@ -1,4 +1,5 @@
 import { RoverFactory } from '../factory/rover.factory.js';
+import { Plateau } from '../singleton/plateau.singleton.js';
 
 /**
  * Class responsible for navigating multiple rovers on a plateau.
